@@ -10,6 +10,7 @@
 
 <div class="page-wrapper">
 	<header class="site-header">
+		<img src="/logo.png" alt="Wedding Inbox" class="site-logo" />
 		<h1>Wedding Inbox</h1>
 		<p class="tagline">A quiet place for your thoughts &amp; wishes</p>
 	</header>
